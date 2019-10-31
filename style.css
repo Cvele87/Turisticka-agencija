@@ -1,0 +1,54 @@
+header{
+	width:100%;
+}
+img{
+	float:left;
+	padding-left:100px;
+	width:70px;
+	hight:70px;
+}
+nav a {
+  float: right;
+  padding:50px;
+  padding-top:10px;
+  color: red;
+  text-align: center;
+  
+  text-decoration: none;
+  font-size: 17px;
+}
+video{
+width: 100%;
+  height: 300px;
+ object-fit:fill;
+}
+div.a {
+  text-align: center;
+  color:#f2a463;
+}
+div.b {
+  text-align: center;
+  color:black;
+}
+#prvi,#drugi,#treci,#cetvrti{
+	float:left;
+	padding-top:20px;
+	padding-left:70px;
+	width:100px;
+	hight:100px;
+}
+.naslov{
+	float:left;
+	padding-top:100px;
+	text-decoration: none;
+	margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+	}
+.image 3{
+	width:150px;
+}	
+
+
+
+
